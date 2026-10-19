@@ -10,4 +10,4 @@ My experience spans cloud engineering, data analytics and product development ac
 **Reach me at:**  sikhosananonzuzo612@gmail.com 
 **Pronouns:** she/her  
 
-Outside of tech, I spend time at the gym and building projects that turn data into practical, usable systems.
+Outside of tech, I spend time at the gym.
